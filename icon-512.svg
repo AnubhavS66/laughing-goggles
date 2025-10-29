@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="g2" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#00e5ff"/>
+      <stop offset="1" stop-color="#00bcd4"/>
+    </linearGradient>
+  </defs>
+  <rect rx="80" ry="80" width="512" height="512" fill="#040405"/>
+  <rect x="40" y="36" width="432" height="440" rx="48" fill="#071018" />
+  <rect x="64" y="76" width="384" height="104" rx="18" fill="black" opacity="0.06" />
+  <g fill="url(#g2)" transform="translate(56,220)">
+    <rect x="0" y="0" width="84" height="84" rx="18" opacity="0.12"></rect>
+    <rect x="112" y="0" width="84" height="84" rx="18" opacity="0.12"></rect>
+    <rect x="224" y="0" width="84" height="84" rx="18" opacity="0.12"></rect>
+    <rect x="336" y="0" width="84" height="84" rx="18" opacity="0.12"></rect>
+
+    <rect x="0" y="112" width="84" height="84" rx="18" opacity="0.12"></rect>
+    <rect x="112" y="112" width="84" height="84" rx="18" opacity="0.12"></rect>
+    <rect x="224" y="112" width="84" height="84" rx="18" opacity="0.12"></rect>
+    <rect x="336" y="112" width="84" height="84" rx="18" opacity="0.12"></rect>
+  </g>
+
+  <rect x="360" y="336" width="112" height="84" rx="18" fill="#00ff80"/>
+  <text x="416" y="390" font-size="46" font-weight="800" text-anchor="middle" fill="#02110a">=</text>
+
+  <text x="256" y="120" font-size="46" font-weight="800" text-anchor="middle" fill="url(#g2)">Anubhav</text>
+</svg>
